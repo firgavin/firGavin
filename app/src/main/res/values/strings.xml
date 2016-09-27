@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firGavin素记</string>
+
+    <item name="tag_first" type="id"></item>
+    <item name="tag_second" type="id"></item>
+
+    <item name="click_to_done" type="id">Done</item>
+</resources>
